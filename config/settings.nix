@@ -4,7 +4,7 @@
       enable = true;
       name = "catppuccin";
       style = "mocha";
-      transparent = false;
+      transparent = true;
     };
     autopairs.nvim-autopairs.enable = true;
     treesitter.enable = true;
