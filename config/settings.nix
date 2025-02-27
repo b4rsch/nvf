@@ -14,5 +14,9 @@
     utility.surround = {
       enable = true;
     };
+    binds = {
+      whichKey.enable = true;
+      cheatsheet.enable = true;
+    };
   };
 }
